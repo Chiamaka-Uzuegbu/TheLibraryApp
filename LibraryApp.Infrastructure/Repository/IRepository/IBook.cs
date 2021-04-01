@@ -9,6 +9,8 @@ namespace LibraryApp.Infrastructure.Repository.IRepository
     public interface IBook
     {
         Task<IEnumerable<BookDTO>> listOfBooks();
-        
+        Task<IEnumerable<BookDTO>> SearchBook(string model);
+
+
     }
 }

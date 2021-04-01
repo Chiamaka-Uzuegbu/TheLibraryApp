@@ -1,0 +1,30 @@
+C:\Users\QaweeySoetan\Source\Repos\TheLibraryApp\LibraryApp.Infrastructure\bin\Debug\net5.0\LibraryApp.Infrastructure.deps.json
+C:\Users\QaweeySoetan\Source\Repos\TheLibraryApp\LibraryApp.Infrastructure\bin\Debug\net5.0\LibraryApp.Infrastructure.runtimeconfig.json
+C:\Users\QaweeySoetan\Source\Repos\TheLibraryApp\LibraryApp.Infrastructure\bin\Debug\net5.0\LibraryApp.Infrastructure.runtimeconfig.dev.json
+C:\Users\QaweeySoetan\Source\Repos\TheLibraryApp\LibraryApp.Infrastructure\bin\Debug\net5.0\LibraryApp.Infrastructure.dll
+C:\Users\QaweeySoetan\Source\Repos\TheLibraryApp\LibraryApp.Infrastructure\bin\Debug\net5.0\ref\LibraryApp.Infrastructure.dll
+C:\Users\QaweeySoetan\Source\Repos\TheLibraryApp\LibraryApp.Infrastructure\bin\Debug\net5.0\LibraryApp.Infrastructure.pdb
+C:\Users\QaweeySoetan\Source\Repos\TheLibraryApp\LibraryApp.Infrastructure\obj\Debug\net5.0\LibraryApp.Infrastructure.csprojAssemblyReference.cache
+C:\Users\QaweeySoetan\Source\Repos\TheLibraryApp\LibraryApp.Infrastructure\obj\Debug\net5.0\LibraryApp.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\QaweeySoetan\Source\Repos\TheLibraryApp\LibraryApp.Infrastructure\obj\Debug\net5.0\LibraryApp.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\QaweeySoetan\Source\Repos\TheLibraryApp\LibraryApp.Infrastructure\obj\Debug\net5.0\LibraryApp.Infrastructure.AssemblyInfo.cs
+C:\Users\QaweeySoetan\Source\Repos\TheLibraryApp\LibraryApp.Infrastructure\obj\Debug\net5.0\LibraryApp.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\QaweeySoetan\Source\Repos\TheLibraryApp\LibraryApp.Infrastructure\obj\Debug\net5.0\LibraryApp.Infrastructure.dll
+C:\Users\QaweeySoetan\Source\Repos\TheLibraryApp\LibraryApp.Infrastructure\obj\Debug\net5.0\ref\LibraryApp.Infrastructure.dll
+C:\Users\QaweeySoetan\Source\Repos\TheLibraryApp\LibraryApp.Infrastructure\obj\Debug\net5.0\LibraryApp.Infrastructure.pdb
+C:\Users\QaweeySoetan\Source\Repos\TheLibraryApp\LibraryApp.Infrastructure\obj\Debug\net5.0\LibraryApp.Infrastructure.genruntimeconfig.cache
+C:\Users\ChiamakaUzuegbu\OneDrive - Enov8 Solutions Ltd\Desktop\TheLibraryApp\LibraryApp.Infrastructure\bin\Debug\net5.0\LibraryApp.Infrastructure.deps.json
+C:\Users\ChiamakaUzuegbu\OneDrive - Enov8 Solutions Ltd\Desktop\TheLibraryApp\LibraryApp.Infrastructure\bin\Debug\net5.0\LibraryApp.Infrastructure.runtimeconfig.json
+C:\Users\ChiamakaUzuegbu\OneDrive - Enov8 Solutions Ltd\Desktop\TheLibraryApp\LibraryApp.Infrastructure\bin\Debug\net5.0\LibraryApp.Infrastructure.runtimeconfig.dev.json
+C:\Users\ChiamakaUzuegbu\OneDrive - Enov8 Solutions Ltd\Desktop\TheLibraryApp\LibraryApp.Infrastructure\bin\Debug\net5.0\LibraryApp.Infrastructure.dll
+C:\Users\ChiamakaUzuegbu\OneDrive - Enov8 Solutions Ltd\Desktop\TheLibraryApp\LibraryApp.Infrastructure\bin\Debug\net5.0\ref\LibraryApp.Infrastructure.dll
+C:\Users\ChiamakaUzuegbu\OneDrive - Enov8 Solutions Ltd\Desktop\TheLibraryApp\LibraryApp.Infrastructure\bin\Debug\net5.0\LibraryApp.Infrastructure.pdb
+C:\Users\ChiamakaUzuegbu\OneDrive - Enov8 Solutions Ltd\Desktop\TheLibraryApp\LibraryApp.Infrastructure\obj\Debug\net5.0\LibraryApp.Infrastructure.csprojAssemblyReference.cache
+C:\Users\ChiamakaUzuegbu\OneDrive - Enov8 Solutions Ltd\Desktop\TheLibraryApp\LibraryApp.Infrastructure\obj\Debug\net5.0\LibraryApp.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ChiamakaUzuegbu\OneDrive - Enov8 Solutions Ltd\Desktop\TheLibraryApp\LibraryApp.Infrastructure\obj\Debug\net5.0\LibraryApp.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\ChiamakaUzuegbu\OneDrive - Enov8 Solutions Ltd\Desktop\TheLibraryApp\LibraryApp.Infrastructure\obj\Debug\net5.0\LibraryApp.Infrastructure.AssemblyInfo.cs
+C:\Users\ChiamakaUzuegbu\OneDrive - Enov8 Solutions Ltd\Desktop\TheLibraryApp\LibraryApp.Infrastructure\obj\Debug\net5.0\LibraryApp.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\ChiamakaUzuegbu\OneDrive - Enov8 Solutions Ltd\Desktop\TheLibraryApp\LibraryApp.Infrastructure\obj\Debug\net5.0\LibraryApp.Infrastructure.dll
+C:\Users\ChiamakaUzuegbu\OneDrive - Enov8 Solutions Ltd\Desktop\TheLibraryApp\LibraryApp.Infrastructure\obj\Debug\net5.0\ref\LibraryApp.Infrastructure.dll
+C:\Users\ChiamakaUzuegbu\OneDrive - Enov8 Solutions Ltd\Desktop\TheLibraryApp\LibraryApp.Infrastructure\obj\Debug\net5.0\LibraryApp.Infrastructure.pdb
+C:\Users\ChiamakaUzuegbu\OneDrive - Enov8 Solutions Ltd\Desktop\TheLibraryApp\LibraryApp.Infrastructure\obj\Debug\net5.0\LibraryApp.Infrastructure.genruntimeconfig.cache

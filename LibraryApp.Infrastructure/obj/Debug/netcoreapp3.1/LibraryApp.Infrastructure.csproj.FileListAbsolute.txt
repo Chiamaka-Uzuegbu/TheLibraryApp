@@ -10,3 +10,15 @@ C:\Users\ChiamakaUzuegbu\OneDrive\Desktop\Library App\LibraryApp.Infrastructure\
 C:\Users\ChiamakaUzuegbu\OneDrive\Desktop\Library App\LibraryApp.Infrastructure\obj\Debug\netcoreapp3.1\LibraryApp.Infrastructure.dll
 C:\Users\ChiamakaUzuegbu\OneDrive\Desktop\Library App\LibraryApp.Infrastructure\obj\Debug\netcoreapp3.1\LibraryApp.Infrastructure.pdb
 C:\Users\ChiamakaUzuegbu\OneDrive\Desktop\Library App\LibraryApp.Infrastructure\obj\Debug\netcoreapp3.1\LibraryApp.Infrastructure.genruntimeconfig.cache
+C:\Users\QaweeySoetan\Source\Repos\TheLibraryApp\LibraryApp.Infrastructure\obj\Debug\netcoreapp3.1\LibraryApp.Infrastructure.csprojAssemblyReference.cache
+C:\Users\QaweeySoetan\Source\Repos\TheLibraryApp\LibraryApp.Infrastructure\obj\Debug\netcoreapp3.1\LibraryApp.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\QaweeySoetan\Source\Repos\TheLibraryApp\LibraryApp.Infrastructure\obj\Debug\netcoreapp3.1\LibraryApp.Infrastructure.AssemblyInfo.cs
+C:\Users\QaweeySoetan\Source\Repos\TheLibraryApp\LibraryApp.Infrastructure\obj\Debug\netcoreapp3.1\LibraryApp.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\QaweeySoetan\Source\Repos\TheLibraryApp\LibraryApp.Infrastructure\obj\Debug\netcoreapp3.1\LibraryApp.Infrastructure.dll
+C:\Users\QaweeySoetan\Source\Repos\TheLibraryApp\LibraryApp.Infrastructure\obj\Debug\netcoreapp3.1\LibraryApp.Infrastructure.pdb
+C:\Users\QaweeySoetan\Source\Repos\TheLibraryApp\LibraryApp.Infrastructure\bin\Debug\netcoreapp3.1\LibraryApp.Infrastructure.deps.json
+C:\Users\QaweeySoetan\Source\Repos\TheLibraryApp\LibraryApp.Infrastructure\bin\Debug\netcoreapp3.1\LibraryApp.Infrastructure.runtimeconfig.json
+C:\Users\QaweeySoetan\Source\Repos\TheLibraryApp\LibraryApp.Infrastructure\bin\Debug\netcoreapp3.1\LibraryApp.Infrastructure.runtimeconfig.dev.json
+C:\Users\QaweeySoetan\Source\Repos\TheLibraryApp\LibraryApp.Infrastructure\bin\Debug\netcoreapp3.1\LibraryApp.Infrastructure.dll
+C:\Users\QaweeySoetan\Source\Repos\TheLibraryApp\LibraryApp.Infrastructure\bin\Debug\netcoreapp3.1\LibraryApp.Infrastructure.pdb
+C:\Users\QaweeySoetan\Source\Repos\TheLibraryApp\LibraryApp.Infrastructure\obj\Debug\netcoreapp3.1\LibraryApp.Infrastructure.genruntimeconfig.cache

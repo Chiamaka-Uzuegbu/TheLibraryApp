@@ -1,4 +1,6 @@
 using LibraryApp.Infrastructure.DataAccess;
+using LibraryApp.Infrastructure.Repository.IRepository;
+using LibraryApp.Infrastructure.Repository.RepositoryImplementation;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.HttpsPolicy;
@@ -38,6 +40,7 @@ namespace TheLibraryApp
 
             services.AddDbContext<ApplicationDbContext>(options =>
             options.UseSqlServer(Configuration.GetConnectionString("DefaultConnection")));
+            services.AddScoped<IBook, BookRepository>();
             services.AddAutoMapper(typeof(Startup));
         }
 

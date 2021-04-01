@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ChiamakaUzuegbu\\OneDrive\\Desktop\\Library App\\UnitTestForLibraryApp\\UnitTestForLibraryApp.csproj": {}
+    "C:\\Users\\ChiamakaUzuegbu\\OneDrive - Enov8 Solutions Ltd\\Desktop\\TheLibraryApp\\UnitTestForLibraryApp\\UnitTestForLibraryApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ChiamakaUzuegbu\\OneDrive\\Desktop\\Library App\\UnitTestForLibraryApp\\UnitTestForLibraryApp.csproj": {
+    "C:\\Users\\ChiamakaUzuegbu\\OneDrive - Enov8 Solutions Ltd\\Desktop\\TheLibraryApp\\UnitTestForLibraryApp\\UnitTestForLibraryApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ChiamakaUzuegbu\\OneDrive\\Desktop\\Library App\\UnitTestForLibraryApp\\UnitTestForLibraryApp.csproj",
+        "projectUniqueName": "C:\\Users\\ChiamakaUzuegbu\\OneDrive - Enov8 Solutions Ltd\\Desktop\\TheLibraryApp\\UnitTestForLibraryApp\\UnitTestForLibraryApp.csproj",
         "projectName": "UnitTestForLibraryApp",
-        "projectPath": "C:\\Users\\ChiamakaUzuegbu\\OneDrive\\Desktop\\Library App\\UnitTestForLibraryApp\\UnitTestForLibraryApp.csproj",
+        "projectPath": "C:\\Users\\ChiamakaUzuegbu\\OneDrive - Enov8 Solutions Ltd\\Desktop\\TheLibraryApp\\UnitTestForLibraryApp\\UnitTestForLibraryApp.csproj",
         "packagesPath": "C:\\Users\\ChiamakaUzuegbu\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ChiamakaUzuegbu\\OneDrive\\Desktop\\Library App\\UnitTestForLibraryApp\\obj\\",
+        "outputPath": "C:\\Users\\ChiamakaUzuegbu\\OneDrive - Enov8 Solutions Ltd\\Desktop\\TheLibraryApp\\UnitTestForLibraryApp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ChiamakaUzuegbu\\AppData\\Roaming\\NuGet\\NuGet.Config",

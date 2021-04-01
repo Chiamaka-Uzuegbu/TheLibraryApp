@@ -33,7 +33,7 @@ namespace TheLibraryApp.Controllers
             catch (Exception)
             {
 
-                return;
+                throw;
             }
         }
 

@@ -17,5 +17,7 @@ namespace LibraryApp.Core.Entities
         public bool AvailabilityStatus { get; set; }
         public CheckOutDetails CheckOutDetails { get; set; }
         public int CheckOutDetailsId { get; set; }
+
+      
     }
 }
