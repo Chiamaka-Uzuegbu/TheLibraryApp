@@ -1,0 +1,21 @@
+App Name: The Library App
+
+Architecture: Clean Architecture
+DataBase: Microsoft SQL
+ORM(Object Relational Mapper): Entity Framework Core
+Framework: ASP.NET Core Web Api
+Unit Test: X-Unit
+Version Control: Git
+Repository: GitHub
+Documentation: Swagger
+
+This Api describes how a library user can get books with ease
+by a few parameters like Tile, ISBN, and status.
+It also includes information about books that have 
+been checked-in and checked-out and the penalty for late
+check-in.
+
+I used the above tools to create this application and ran migrations
+using entity frameworkcore to my database. The migration folders are in
+my project.
+
